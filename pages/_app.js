@@ -1,7 +1,10 @@
-import '../styles/custom.global.scss'
+ import '../styles/custom.global.scss'
 
-function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
-}
+function MyApp({Component, pageProps}) {
+    return <Component {...pageProps} />
+ }
 
-export default MyApp
+
+
+
+ export default MyApp
